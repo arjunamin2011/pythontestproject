@@ -1,3 +1,4 @@
+#Learning Integer: Integer is numbers without desimal like e.g: -1,0,1,2,100
 #Example of Intiger
 
 #ask for variable value
