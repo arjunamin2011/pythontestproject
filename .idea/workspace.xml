@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="422901a1-6cd0-4132-9e71-690a596ece30" name="Changes" comment="Integer calculator">
-      <change afterPath="$PROJECT_DIR$/calc2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="422901a1-6cd0-4132-9e71-690a596ece30" name="Changes" comment="Integer calculator2">
+      <change beforePath="$PROJECT_DIR$/calc2.py" beforeDir="false" afterPath="$PROJECT_DIR$/calc2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722235045571</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Integer calculator2">
+      <option name="closed" value="true" />
+      <created>1722236342903</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722236342903</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,6 +315,7 @@
     <MESSAGE value="second edit" />
     <MESSAGE value="used &quot;input function&quot;" />
     <MESSAGE value="remove space from string and Capitalize input" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove space from string and Capitalize input" />
+    <MESSAGE value="Integer calculator2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Integer calculator2" />
   </component>
 </project>
